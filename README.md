@@ -7,3 +7,4 @@ Vous retrouverez ci-dessus les differents fichiers pour faire fonctionner le pro
 ```bash
 git clone https://github.com/AloneDay-91/Project-QR-Code-Python
 ```
+## Utilisation
