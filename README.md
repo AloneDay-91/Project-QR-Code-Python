@@ -8,3 +8,4 @@ Vous retrouverez ci-dessus les differents fichiers pour faire fonctionner le pro
 git clone https://github.com/AloneDay-91/Project-QR-Code-Python
 ```
 ## Utilisation
+Tout d'abord, télécharger le programme ci-dessus. Ensuite, modifier le lien pour mettre le lien que vous voulez. Vous pouvez aussi changer les paramètres du QRCode image.
